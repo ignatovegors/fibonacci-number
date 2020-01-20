@@ -3,7 +3,11 @@ Testing GitHub using various problems with Fibonacci numbers
 
 <b>fibonacci-recursive</b> counts the n-th Fibonacci number using a recursive algoritm
 
-<b>fibonacci-table</b> counts the n-th Fibonacci number using a table algoritm
+<b>fibonacci-recursive-outer-cache</b> counts the n-th Fibonacci number using a recursive algoritm caching counted Fibonacci numbers in a dictionary
+
+<b>fibonacci-recursive-decorator-cache</b> counts the n-th Fibonacci number using a recursive algoritm caching counted Fibonacci numbers using a "memo" decorator
+
+<b>fibonacci-iterative</b> counts the n-th Fibonacci number using an iterative algoritm
 
 <b>fibonacci-last-dig</b> counts the last digital of the n-th Fibonacci number
 
