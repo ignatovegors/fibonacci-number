@@ -9,6 +9,6 @@ Testing GitHub using various problems with Fibonacci numbers
 
 <b>fibonacci-iterative</b> counts the n-th Fibonacci number using an iterative algoritm
 
-<b>fibonacci-last-dig</b> counts the last digital of the n-th Fibonacci number
+<b>fibonacci-last-digit</b> counts the last digital of the n-th Fibonacci number
 
 <b>fibonacci-mod</b> counts the remainder of dividing the n-th Fibonacci number by m
