@@ -11,4 +11,4 @@ Testing GitHub using various problems with Fibonacci numbers
 
 <b>fibonacci-last-digit</b> counts the last digital of the n-th Fibonacci number
 
-<b>fibonacci-mod</b> counts the remainder of dividing the n-th Fibonacci number by m
+<b>fibonacci-mod</b> counts the remainder of dividing the n-th Fibonacci number by m using the Pisano period
