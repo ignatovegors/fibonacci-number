@@ -1,4 +1,4 @@
-def fib(n):
+def fib_iter(n):
     assert n >= 0
     f0, f1 = 0, 1
     for i in range(n - 1):
