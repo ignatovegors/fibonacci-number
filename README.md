@@ -1,10 +1,10 @@
 # fibonacci-number
 Testing GitHub using various problems with Fibonacci numbers
 
-fibonacci-recursive counts the n-th Fibonacci number using a recursive algoritm
+<b>fibonacci-recursive</b> counts the n-th Fibonacci number using a recursive algoritm
 
-fibonacci-table counts the n-th Fibonacci number using a table algoritm
+<b>fibonacci-table</b> counts the n-th Fibonacci number using a table algoritm
 
-fibonacci-last-dig counts the last digital of the n-th Fibonacci number
+<b>fibonacci-last-dig</b> counts the last digital of the n-th Fibonacci number
 
-fibonacci-mod counts the remainder of dividing the n-th Fibonacci number by m
+<b>fibonacci-mod</b> counts the remainder of dividing the n-th Fibonacci number by m
