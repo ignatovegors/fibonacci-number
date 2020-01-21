@@ -1,5 +1,5 @@
 # fibonacci-number
-Solution of different problems with Fibonacci numbers
+Solution of different problems related to Fibonacci numbers
 
 <b>fibonacci-recursive</b> counts the n-th Fibonacci number using a recursive algoritm
 
